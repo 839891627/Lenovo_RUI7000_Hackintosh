@@ -12,7 +12,7 @@
 -    主板: 联想 LNVNB161216
 -    内存: 16 GB ( 三星 DDR4 2400MHz / 金士顿 DDR4 2400MHz )-
 -  主硬盘: SK HYNIX HFS128GD9MND-5510A ( 128 GB / 固态硬盘 )
--    显卡: Nvidia GeForce GTX 1050 ( 2 GB )
+-    显卡: Nvidia GeForce GTX 1050 ( 2 GB ) / HD630 集显
 -  显示器: 友达 AUO61ED ( 15.5 英寸  )
 -    声卡: 瑞昱  @ 英特尔 High Definition Audio 控制器
 -    网卡: 博通 Broadcom 802.11ac Network Adapter / 联想
