@@ -64,7 +64,7 @@
 				<data>G1kAAA==</data>
 				<key>disable-external-gpu</key>
 				<data>AQAAAA==</data>
-				<key>#framebuffer-con1-alldata</key>
+				<key>framebuffer-con1-alldata</key>
 				<data>AQUKAAAIAACHAQAAAgQKAAAIAACHAQAA/wAAAAEAAAAgAAAA</data>
 				<key>framebuffer-con1-enable</key>
 				<data>AQAAAA==</data>
