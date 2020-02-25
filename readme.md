@@ -43,10 +43,10 @@
 
 ### 上图
 
-![关于](https://tva1.sinaimg.cn/large/0082zybply1gc64dijyn1j30wo0jq41f.jpg)
+![关于](./screenshots/0082zybply1gc64dijyn1j30wo0jq41f.jpg)
 
-![屏幕](https://tva1.sinaimg.cn/large/0082zybply1gc64dn2y0ej310s0scjvj.jpg)
+![屏幕](./screenshots/0082zybply1gc64dn2y0ej310s0scjvj.jpg)
 
-![facetime](https://tva1.sinaimg.cn/large/0082zybply1gc64dw28btj31ev0u00xf.jpg)
+![facetime](./screenshots/0082zybply1gc64dw28btj31ev0u00xf.jpg)
 
-![Xnip2019-11-24_09-21-36](https://tva1.sinaimg.cn/large/0082zybply1gc64ebiig1j30fu0h8n11.jpg)
+![Xnip2019-11-24_09-21-36](./screenshots/0082zybply1gc64ebiig1j30fu0h8n11.jpg)
