@@ -6,7 +6,6 @@
 
 - 电脑型号: 联想 80WB 笔记本电脑
 - 操作系统: Windows 10 64位
-
 -  处理器: 英特尔 Core i5-7300HQ @ 2.50GHz 四核
 -    主板: 联想 LNVNB161216
 -    内存: 16 GB ( 三星 DDR4 2400MHz / 金士顿 DDR4 2400MHz )-
@@ -14,10 +13,15 @@
 -    显卡: Nvidia GeForce GTX 1050 ( 2 GB ) / HD630 集显
 -  显示器: 友达 AUO61ED ( 15.5 英寸  )
 -    声卡: 瑞昱  @ 英特尔 High Definition Audio 控制器
--    网卡: 博通 Broadcom 802.11ac Network Adapter / 联想
-
+- 网卡: 博通 Broadcom 802.11ac Network Adapter / 联想
 - **内置的无线网卡，被替换成 博通的了**（型号：**BCM94352Z** 淘宝100+买的，笔记本后盖拆开，和插usb一样，直接替换原来的）
 - 然后系统是安装在我替换的 sata 接口的 ssd 上
+
+
+
+## 重要说明
+
+**因为我bios解锁了 CFG Lock**， 所以config.plist 去除了 `KernelPm`  如果你没有解锁，请 **勾选** 这个选项（在 kernel and kext patches 下面）
 
 ### 功能说明
 
