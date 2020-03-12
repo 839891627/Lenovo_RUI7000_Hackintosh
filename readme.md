@@ -22,6 +22,7 @@
 ## 重要说明
 
 **因为我bios解锁了 CFG Lock**， 所以config.plist 去除了 `KernelPm`  如果你没有解锁，请 **勾选** 这个选项（在 kernel and kext patches 下面）
+> 解锁参考帖子：[联想拯救者Y7000P 2019款bios高级教程——解锁CFG+修改DVMT/其他高级选项](http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1845189&highlight=y700)
 
 ### 功能说明
 
