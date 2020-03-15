@@ -19,10 +19,23 @@
 
 
 
+# 必知
+
+此配置是在  CFG Lock 解锁的情况下配置的，如果你没有解锁，请自行参照其他相关教程调整某些项！！！
+
+> 解锁参考帖子：[联想拯救者Y7000P 2019款bios高级教程——解锁CFG+修改DVMT/其他高级选项](http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1845189&highlight=y700)
+
+## 2020.03.15 更新OC
+
+现在我自用的是 OC 5.7，已经完美，和 clover 一样。总之还没发现问题项。
+
+OC 配置见 `OC-引导` 文件夹。使用的话，删除第一次其他所有文件，然后把 `OC-引导` 里面的文件夹提取到第一层，最终目录应该是 `EFI/BOOT` 和 `EFI/OC`两个文件夹
+
+![facetime](./screenshots/EFI.jpg)
+
 ## 重要说明
 
 **因为我bios解锁了 CFG Lock**， 所以config.plist 去除了 `KernelPm`  如果你没有解锁，请 **勾选** 这个选项（在 kernel and kext patches 下面）
-> 解锁参考帖子：[联想拯救者Y7000P 2019款bios高级教程——解锁CFG+修改DVMT/其他高级选项](http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1845189&highlight=y700)
 
 ### 功能说明
 
@@ -54,4 +67,4 @@
 
 ![facetime](./screenshots/0082zybply1gc64dw28btj31ev0u00xf.jpg)
 
-![Xnip2019-11-24_09-21-36](./screenshots/0082zybply1gc64ebiig1j30fu0h8n11.jpg)
+![facetime](./screenshots/USB.jpg)
