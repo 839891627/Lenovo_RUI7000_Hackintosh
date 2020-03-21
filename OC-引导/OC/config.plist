@@ -26,7 +26,7 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string></string>
+				<string>plugin-type=1</string>
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
@@ -34,7 +34,7 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string></string>
+				<string>笔记本亮度</string>
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
@@ -50,7 +50,7 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string></string>
+				<string>笔记本亮度快捷键 F11 F12</string>
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
@@ -708,17 +708,6 @@
 	<dict>
 		<key>Automatic</key>
 		<true/>
-		<key>DataHub</key>
-		<dict>
-			<key>BoardProduct</key>
-			<string>Mac-551B86E5744E2388</string>
-			<key>SystemProductName</key>
-			<string>MacBookPro14,3</string>
-			<key>SystemSerialNumber</key>
-			<string>C02X70XYHTD5</string>
-			<key>SystemUUID</key>
-			<string>56A093FF-EF13-4790-8189-961D9C97D231</string>
-		</dict>
 		<key>Generic</key>
 		<dict>
 			<key>MLB</key>
@@ -730,79 +719,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro14,3</string>
 			<key>SystemSerialNumber</key>
-			<string>C02X70XYHTD5</string>
+			<string>C02XVLY5HTD5</string>
 			<key>SystemUUID</key>
 			<string>56A093FF-EF13-4790-8189-961D9C97D231</string>
-		</dict>
-		<key>PlatformNVRAM</key>
-		<dict>
-			<key>BID</key>
-			<string>Mac-551B86E5744E2388</string>
-			<key>FirmwareFeatures</key>
-			<data>P+EP/AAAAAA=</data>
-			<key>FirmwareFeaturesMask</key>
-			<data>P+EP/AAAAAA=</data>
-			<key>MLB</key>
-			<string>C02704104J9F64WU</string>
-			<key>ROM</key>
-			<data>5+Okl9Ix</data>
-		</dict>
-		<key>SMBIOS</key>
-		<dict>
-			<key>BIOSReleaseDate</key>
-			<string>12/16/2019</string>
-			<key>BIOSVendor</key>
-			<string>Apple Inc.</string>
-			<key>BIOSVersion</key>
-			<string>MBP143.88Z.0178.B00.1806261159</string>
-			<key>BoardAssetTag</key>
-			<string></string>
-			<key>BoardLocationInChassis</key>
-			<string>Part Component</string>
-			<key>BoardManufacturer</key>
-			<string></string>
-			<key>BoardProduct</key>
-			<string>Mac-551B86E5744E2388</string>
-			<key>BoardSerialNumber</key>
-			<string>C028335014NJ1JHFB</string>
-			<key>BoardType</key>
-			<integer>10</integer>
-			<key>BoardVersion</key>
-			<string>1.0</string>
-			<key>ChassisAssetTag</key>
-			<string>MacBook-Aluminum</string>
-			<key>ChassisManufacturer</key>
-			<string>Apple Inc.</string>
-			<key>ChassisSerialNumber</key>
-			<string>C02X70XYHTD5</string>
-			<key>ChassisType</key>
-			<integer>9</integer>
-			<key>ChassisVersion</key>
-			<string>Mac-551B86E5744E2388</string>
-			<key>FirmwareFeatures</key>
-			<data>P+EP/AAAAAA=</data>
-			<key>FirmwareFeaturesMask</key>
-			<data>P+EP/AAAAAA=</data>
-			<key>MemoryFormFactor</key>
-			<integer>0</integer>
-			<key>PlatformFeature</key>
-			<integer>26</integer>
-			<key>ProcessorType</key>
-			<integer>0</integer>
-			<key>SystemFamily</key>
-			<string>MacBook Pro</string>
-			<key>SystemManufacturer</key>
-			<string></string>
-			<key>SystemProductName</key>
-			<string>MacBookPro14,3</string>
-			<key>SystemSKUNumber</key>
-			<string>Mac-551B86E5744E2388</string>
-			<key>SystemSerialNumber</key>
-			<string>C02X70XYHTD5</string>
-			<key>SystemUUID</key>
-			<string>56A093FF-EF13-4790-8189-961D9C97D231</string>
-			<key>SystemVersion</key>
-			<string>1.0</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
