@@ -25,6 +25,12 @@
 
 > 解锁参考帖子：[联想拯救者Y7000P 2019款bios高级教程——解锁CFG+修改DVMT/其他高级选项](http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1845189&highlight=y700)
 
+### CFG 和 DVMT 的位置我放这里，省的各位再去找了
+
+![cfg](./screenshots/cfg.png)
+
+![dvmt](./screenshots/dvmt.png)
+
 ## 2020.03.15 更新OC
 
 现在我自用的是 OC 5.7，已经完美，和 clover 一样。总之还没发现问题项。
