@@ -17,11 +17,27 @@
 - **内置的无线网卡，被替换成 博通的了**（型号：**BCM94352Z** 淘宝100+买的，笔记本后盖拆开，和插usb一样，直接替换原来的）
 - 然后系统是安装在我替换的 sata 接口的 ssd 上
 
+## 2020.09.01
 
+更新 **OC 6.0** ,安装 **Big Sur**。 
 
-# 必知
+> 目前仓库只更新在用的 OC 配置，clover 已成历史
 
-此配置是在  CFG Lock 解锁的情况下配置的，如果你没有解锁，请自行参照其他相关教程调整某些项！！！
+#### 以下已验证正常：
+
+- 声卡
+- 网卡
+- 睡眠
+- 显卡
+
+#### 以下未验证：
+
+- iMessage 相关
+- HDMI 这个以前就没弄好。。 
+
+## 必知
+
+1. 此配置是在  CFG Lock 解锁的情况下配置的，如果你没有解锁，请自行参照其他相关教程调整某些项！！！
 
 > 解锁参考帖子：[联想拯救者Y7000P 2019款bios高级教程——解锁CFG+修改DVMT/其他高级选项](http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1845189&highlight=y700)
 
@@ -31,33 +47,19 @@
 
 ![dvmt](./screenshots/dvmt.png)
 
-## 2020.03.15 更新OC
 
-现在我自用的是 OC 5.7，已经完美，和 clover 一样。总之还没发现问题项。
-
-OC 配置见 `OC-引导` 文件夹。使用的话，删除第一层其他所有文件，然后把 `OC-引导` 里面的文件夹提取到第一层，最终目录应该是 `EFI/BOOT` 和 `EFI/OC`两个文件夹
-
-![facetime](./screenshots/EFI.jpg)
-
-## 重要说明
-
-**因为我bios解锁了 CFG Lock**， 所以config.plist 去除了 `KernelPm`  如果你没有解锁，请 **勾选** 这个选项（在 kernel and kext patches 下面）
-
-### 功能说明
 
 目前**只发现**HDMI有点问题，其他一律没/未发现问题。 **睡眠、usb、亮度等等一概完美！**
 
 ### HIDPI 必须开启！香啊！
 
+>  
+
 用这个大佬的配置，一键开启。我开的是  **1440*810**，真的`香`
 
-> https://github.com/xzhih/one-key-hidpi
-
-
-
-### HDMI
-
-目前还没有完美。**但是开启插着开启**，开启后，笔记本黑屏，但是外接显示器是没问题的（我目前测试过家里的电视，还没有单独的外接显示器。。）
+> ~~https://github.com/xzhih/one-key-hidpi~~
+>
+> **Big sur** 已失效，用这个https://github.com/mlch911/one-key-hidpi 
 
 
 
