@@ -65,8 +65,7 @@
 
 ### 期待你的完善！让我们一起开心的黑果~
 
-
-
+### 如果不适用，可以改用这位同学的试试 https://github.com/Erf172/Lenovo_XiaoXin_Rui7000_Hackintosh
 ### 上图
 
 ![关于](./screenshots/0082zybply1gc64dijyn1j30wo0jq41f.jpg)
